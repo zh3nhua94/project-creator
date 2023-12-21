@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/zh3nhua94/graphql-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/zh3nhua94/graphql-server.git
